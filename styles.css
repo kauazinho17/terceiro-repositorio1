@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --cor-principal:#000000;
+    --cor: #303030;
+    --cor:#ffe3f1;
+    --cor:#00c9c8;
+    --cor:#bffcf9;
+    --cor:#ec87e4;
+    --cor: #ffffff;
+}
+
+body{
+    font-size: 1rem;
+font-family: "Noto Sans";
+}
