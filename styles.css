@@ -14,3 +14,21 @@ body{
     font-size: 1rem;
 font-family: "Noto Sans";
 }
+#contato {
+    background: var(-- #000);
+    background-size: cover;
+    padding: 4rem 0;
+}
+.formulario{
+    background-color: var(--#ffffff);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: o o 10px rgba(0, 0, 0, 1);
+    font-weight: bold;
+}
+.formulario{
+    background: var(--#ffffff);
+    padding: 2rem;
+    border-radius: ;
+
+}
