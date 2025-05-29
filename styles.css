@@ -31,4 +31,19 @@ font-family: "Noto Sans";
     padding: 2rem;
     border-radius: ;
 
+    /* Estilo para o contraste */
+.alto-contraste {
+    background-color: black;
+    color: white;
+}
+
+/* A lista de opções do menu de acessibilidade */
+.apresenta-lista {
+    display: block; /* Torna as opções visíveis */
+}
+
+#opcoes-acessibilidade {
+    display: none; /* Oculta as opções inicialmente */
+}
+
 }
